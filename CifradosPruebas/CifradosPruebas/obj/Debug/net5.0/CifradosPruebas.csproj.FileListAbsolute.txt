@@ -1,0 +1,16 @@
+C:\Proyectos\Proyectos GitHub\PruebasCifradoAes\CifradosPruebas\CifradosPruebas\bin\Debug\net5.0\CifradosPruebas.exe
+C:\Proyectos\Proyectos GitHub\PruebasCifradoAes\CifradosPruebas\CifradosPruebas\bin\Debug\net5.0\CifradosPruebas.deps.json
+C:\Proyectos\Proyectos GitHub\PruebasCifradoAes\CifradosPruebas\CifradosPruebas\bin\Debug\net5.0\CifradosPruebas.runtimeconfig.json
+C:\Proyectos\Proyectos GitHub\PruebasCifradoAes\CifradosPruebas\CifradosPruebas\bin\Debug\net5.0\CifradosPruebas.runtimeconfig.dev.json
+C:\Proyectos\Proyectos GitHub\PruebasCifradoAes\CifradosPruebas\CifradosPruebas\bin\Debug\net5.0\CifradosPruebas.dll
+C:\Proyectos\Proyectos GitHub\PruebasCifradoAes\CifradosPruebas\CifradosPruebas\bin\Debug\net5.0\ref\CifradosPruebas.dll
+C:\Proyectos\Proyectos GitHub\PruebasCifradoAes\CifradosPruebas\CifradosPruebas\bin\Debug\net5.0\CifradosPruebas.pdb
+C:\Proyectos\Proyectos GitHub\PruebasCifradoAes\CifradosPruebas\CifradosPruebas\obj\Debug\net5.0\CifradosPruebas.csproj.AssemblyReference.cache
+C:\Proyectos\Proyectos GitHub\PruebasCifradoAes\CifradosPruebas\CifradosPruebas\obj\Debug\net5.0\CifradosPruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Proyectos GitHub\PruebasCifradoAes\CifradosPruebas\CifradosPruebas\obj\Debug\net5.0\CifradosPruebas.AssemblyInfoInputs.cache
+C:\Proyectos\Proyectos GitHub\PruebasCifradoAes\CifradosPruebas\CifradosPruebas\obj\Debug\net5.0\CifradosPruebas.AssemblyInfo.cs
+C:\Proyectos\Proyectos GitHub\PruebasCifradoAes\CifradosPruebas\CifradosPruebas\obj\Debug\net5.0\CifradosPruebas.csproj.CoreCompileInputs.cache
+C:\Proyectos\Proyectos GitHub\PruebasCifradoAes\CifradosPruebas\CifradosPruebas\obj\Debug\net5.0\CifradosPruebas.dll
+C:\Proyectos\Proyectos GitHub\PruebasCifradoAes\CifradosPruebas\CifradosPruebas\obj\Debug\net5.0\ref\CifradosPruebas.dll
+C:\Proyectos\Proyectos GitHub\PruebasCifradoAes\CifradosPruebas\CifradosPruebas\obj\Debug\net5.0\CifradosPruebas.pdb
+C:\Proyectos\Proyectos GitHub\PruebasCifradoAes\CifradosPruebas\CifradosPruebas\obj\Debug\net5.0\CifradosPruebas.genruntimeconfig.cache
