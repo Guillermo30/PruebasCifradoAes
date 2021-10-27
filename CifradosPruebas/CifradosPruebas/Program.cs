@@ -11,9 +11,9 @@ namespace CifradosPruebas
         {
             string cadena = "3e6f15a4fc73aaa7a95212bd910df36676f3814894128b23f71b26ee9a364b01-6";
             string pass= "KujIDA6573#muxiG20211027";
-            string intIV = "";
+            //string intIV = "'AES-256-CBC'";
 
-            string salida = encryptAES256CBC(cadena, pass, intIV);
+            string salida = encryptAES256CBC(cadena, pass);
             Console.WriteLine("Token: " + salida);
         }
 
@@ -27,7 +27,7 @@ namespace CifradosPruebas
 
             key = Encoding.UTF8.GetBytes(pass);
 
-            byte[] iv = GenerateIV();
+            byte[] iv = new byte[16] { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
             Aes aesAlg = Aes.Create();
 
 
@@ -35,6 +35,7 @@ namespace CifradosPruebas
             {
                 aesAlg.Key = key;
                 aesAlg.IV = iv;
+                aesAlg.Mode = CipherMode.CBC;
 
                 ICryptoTransform encryptor = aesAlg.CreateEncryptor(aesAlg.Key, aesAlg.IV);
                 MemoryStream msEncrypt = new MemoryStream();
@@ -51,7 +52,7 @@ namespace CifradosPruebas
                         encrypted = msEncrypt.ToArray();
 
                         string Encrypt = Convert.ToBase64String(encrypted);
-                        token_encode = Uri.EscapeDataString(Encrypt);
+                        token_encode = Encrypt;//Uri.EscapeDataString(Encrypt);
                     }
                 }
             }
